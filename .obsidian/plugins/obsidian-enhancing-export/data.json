@@ -59,6 +59,7 @@
   "openExportedFile": true,
   "env": {},
   "showExportProgressBar": true,
+  "showOverwriteConfirmation": true,
   "lastExportDirectory": {
     "win32": "D:\\5EDemocache\\Reportdemo_test"
   },
