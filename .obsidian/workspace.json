@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "报告.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "报告"
             }
           }
         ],
@@ -215,10 +215,10 @@
   },
   "active": "6df73c7fcdb4ebe7",
   "lastOpenFiles": [
-    "报告.md",
     "未命名.md",
-    "八数码问题",
     "键盘推荐.md",
+    "报告.md",
+    "八数码问题",
     "README.md"
   ]
 }
